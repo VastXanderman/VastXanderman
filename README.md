@@ -7,6 +7,7 @@ I do not know much about C++, C#, JS, LUA, or PY.
 
 Would be nice for some help tho.
 
+ 
 
 I play Mario 64's coop deluxe mod and some other games. One of the reasons I want to learn lua is because of that game.
 
@@ -16,8 +17,8 @@ I also want to learn normal scripting for games that require you to script.
 
 Another reason to learn coding is also website creation.
 
-
-
+ 
+ 
 
 but ye. this is my github account.
 <!--
