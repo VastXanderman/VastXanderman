@@ -16,7 +16,7 @@ I want to learn python to possible make my own game in python.
 I also want to learn normal scripting for games that require you to script.
 
 Another reason to learn coding is also website creation.
-
+ 
  
  
 
